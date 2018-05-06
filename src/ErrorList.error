@@ -1,0 +1,4 @@
+100: Error get data of plan local (Realm);
+101: Error get data of plan from API;
+102: Error Insert data of plan to DB from API
+103: Error Update plan
